@@ -1,4 +1,4 @@
-# Bank_Marketing
+# Bank_Marketing_Campaign_Analysis
 
 This data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution from May 2008 to November 2010.
 
